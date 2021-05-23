@@ -6,8 +6,7 @@ its an edited\modified version of inco's speedometer plugin which is nothing rea
 ## video which features the thing
 
 Video:
-[![]()](https://youtu.be/jNFhjjyhIlo)
-*by SV BOY.*
+https://youtu.be/jNFhjjyhIlo
 
 ## Installation Guide
 
